@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to clement olisa kizito's slide!"
 ---
 
 I just want to say tha gitlab is awesome!
